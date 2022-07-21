@@ -9,7 +9,7 @@
 - Se creó un repositorio en GitHub de nombre tarea7 y guardar los dos archivos de la tarea. El repositorio debe tener una Readme con los detalles de la actividad.
 - Se pegó el enlace del repositorio en la actividad T7_iris de Moodle
 
-# Tarea6_Akira
+
 ## DATOS PERSONALES
 - Gómez Akira
 - Ing. Biotecnología
