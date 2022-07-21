@@ -1,7 +1,7 @@
 # Tarea7
 ## Tarea en clases
 ## En esta actividad se realizó lo siguiente
-- Se creó el cuaderno de .Crear un Júpiter Notebook t7_iris.ipynb. 
+- Se creó el cuaderno en Júpiter Notebook t7_iris.ipynb. 
 - Se cargó la data "iris.csv"
 - Se calculó la media y desviación estandar para 'SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm'. 
 - Se Utilizó las medias y desviaciones estandar para crear una data de distribución normal.
